@@ -16,7 +16,7 @@ A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepag
 
 ## What it does
 
-- Look pretty, that's about it :-)
+- Look pretty, that's about it 
 
 ## Learning Points
 
