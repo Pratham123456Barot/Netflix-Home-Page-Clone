@@ -4,11 +4,6 @@ Clone of the Netflix website as a light HTML CSS and JS excercise - [Take a look
 
 [![Practice](https://img.shields.io/badge/Practice-HTML/CSS/JS-orange.svg)](https://bankole2000.github.io/netflix)
 
-_<p align="center">"Eating website for fun... nyom nyom nyom"</p>_
-
-<div align="center" style="text-align:center; margin:auto;">
-<img align="center" src="https://i.imgur.com/EgCvXyK.png" width="150"/>
-</div>
 
 ## What it is
 
